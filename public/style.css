@@ -1,0 +1,32 @@
+body {
+  font-family: 'Baloo Da 2', cursive !important;
+  background: #263238;
+  color: #fff;
+  text-align: center;
+}
+
+.main-jumbotron {
+  background: #37474f;
+}
+
+.cover {
+  width: 140px;
+}
+
+h1, h2 {
+  font-family: 'Baloo Da 2', cursive !important;
+}
+
+.footer-text {
+  margin-top: 140px;
+}
+
+.container {
+  margin-top: 30px;
+}
+
+.profile-pic {
+  width:150px;
+  margin:20px;
+  border-radius: 50%;
+}
